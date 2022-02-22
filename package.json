@@ -5,5 +5,9 @@
   "description": "Nuxt3 store autoimport",
   "main": "src/index.js",
   "author": "Michał Pietrucha",
-  "keywords": []
+  "keywords": [],
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/mpietrucha/nuxt3-store-autoimport"
+  }
 }
