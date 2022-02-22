@@ -1,6 +1,6 @@
 # Nuxt 3 store auto import
 
-This package auto imports your modules from `store` directory. Works well with [pinia](https://pinia.vuejs.org/ssr/nuxt.html)
+This package auto imports your modules from `store` directory. Works well with [pinia](https://pinia.vuejs.org/ssr/nuxt.html).
 
 ## Setup
 
