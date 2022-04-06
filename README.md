@@ -7,7 +7,7 @@ This package auto imports your modules from `store` directory. Works well with [
 1. Add `nuxt3-store-autoimport` dependency to your project
 
 ```bash
-npm i nuxt3-store-autoimport
+npm i -D nuxt3-store-autoimport
 ```
 
 2. Add `nuxt3-store-autoimport` to the `buildModules` section of `nuxt.config.ts`
