@@ -1,6 +1,6 @@
 {
   "name": "nuxt-store-autoimport",
-  "version": "0.0.5-dev",
+  "version": "0.0.5",
   "license": "MIT",
   "description": "Nuxt store autoimport",
   "main": "src/index.js",
