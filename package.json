@@ -1,13 +1,16 @@
 {
   "name": "nuxt-store-autoimport",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "license": "MIT",
   "description": "Nuxt store autoimport",
   "main": "src/index.js",
   "author": "Michał Pietrucha",
   "keywords": [],
   "repository": {
-      "type": "git",
-      "url": "https://github.com/mpietrucha/nuxt-store-autoimport"
+    "type": "git",
+    "url": "https://github.com/mpietrucha/nuxt-store-autoimport"
+  },
+  "dependencies": {
+    "@nuxt/kit": "^3.0.0-rc.1"
   }
 }
